@@ -42496,7 +42496,7 @@
 
     class GridHelper extends LineSegments {
 
-    	constructor( size = 10, divisions = 10, color1 = 0x444444, color2 = 0x888888 ) {
+    	constructor( size = 10, divisions = 5, color1 = 0x444444, color2 = 0x888888 ) {
 
     		color1 = new Color( color1 );
     		color2 = new Color( color2 );
