@@ -120969,7 +120969,7 @@
         console.log(props);
       }
     };
-
+/*
     //Setup UI
     const loadButton = createSideMenuButton('./resources/folder-icon.svg');
     loadButton.addEventListener('click', () => {
@@ -120988,5 +120988,5 @@
       dropBoxButton.blur();
       viewer.dropbox.loadDropboxIfc();
     });
-
+*/
 }());
