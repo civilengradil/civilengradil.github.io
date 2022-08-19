@@ -120865,7 +120865,7 @@
     viewer.context.stats = stats;
 
     // viewer.IFC.loader.ifcManager.useWebWorkers(true, 'files/IFCWorker.js');
-    viewer.IFC.setWasmPath('files/');
+    viewer.IFC.setWasmPath('/');
 
     viewer.IFC.loader.ifcManager.applyWebIfcConfig({
       USE_FAST_BOOLS: true,
